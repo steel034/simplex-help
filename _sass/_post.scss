@@ -1,9 +1,10 @@
 .content-post {
   min-height: calc(100vh - 480px);
-  background-image: url(/assets/img/background.jpg);
-  background-repeat: no-repeat;
+  background-color: #eaeaea;
+  background-image: url(/assets/img/bg-repeat.svg);
+ /* background-repeat: no-repeat;
   background-size: cover;
-  background-position: center; 
+  background-position: center; */
   padding-top: 30px;
   padding-bottom: 30px;
 }
